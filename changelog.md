@@ -1,6 +1,14 @@
 # Changelog(s):
 This changelog will no longer include the LTSC version of this OS as Home will be the primary version of this project!
 
+## Version: v1.1.0
+- Updated OS to 25H2
+- Ran OS through Tiny11 25H2 builder script
+- Improved performance
+- Fixed an issue where sponsered apps would still be displeyed even though the were disabled by group policy
+- Improved UI responsiveness
+- Enabled VRR by default
+
 ## Version v1.0.9
 - Improved GPU/UI Performance.
 - Added gamepad configuration to ther OSK so you can use the Steam Deck's on-board gamepad controls with it (requires HC or Steam Deck Tools to work).
@@ -38,3 +46,4 @@ NOTE: Steam Deck Tools seems to break the trackpad making it feel like its stuck
 - Fixed an issue where the wallpaper looks bugged out (Home Only).
 - Added `All Control Panel Items` to "This PC" could be useful when you need to change a setting but cannot access desktop when running a fullscreen game.
 - Added user files folder to desktop.
+
