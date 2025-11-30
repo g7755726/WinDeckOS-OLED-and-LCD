@@ -8,7 +8,7 @@ This changelog will no longer include the LTSC version of this OS as Home will b
 - Fixed an issue where sponsered apps would still be displayed even though the were disabled by group policy
 - Improved UI responsiveness
 - Enabled VRR by default
-- In `About` changed valve name to `Valve Corporation`
+- In About section changed valve name to "`Valve Corporation`"
 
 ## Version v1.0.9
 - Improved GPU/UI Performance.
@@ -47,6 +47,7 @@ NOTE: Steam Deck Tools seems to break the trackpad making it feel like its stuck
 - Fixed an issue where the wallpaper looks bugged out (Home Only).
 - Added `All Control Panel Items` to "This PC" could be useful when you need to change a setting but cannot access desktop when running a fullscreen game.
 - Added user files folder to desktop.
+
 
 
 
