@@ -20,7 +20,7 @@ This version allows users to enhance their gaming expeiorence without hindering 
 - Dolby Atomos Compatible (Enchance your audio experience with Dolby Atmos)
 
 ## DOWNLOAD
-[https://github.com/PS2ClassicsVault/WinDeckOS-OLED-and-LCD/releases](https://github.com/g7755726/WinDeckOS-OLED-and-LCD/releases)
+[https://github.com/g7755725/WinDeckOS-OLED-and-LCD/releases](https://github.com/g7755726/WinDeckOS-OLED-and-LCD/releases)
 
 ## Need to know what has been changed?
 You can view all our release changes by viewing our changelog [here](https://github.com/g7755726/WinDeckOS-OLED/blob/main/changelog.md).
